@@ -1,22 +1,14 @@
-# Portfolio
+# hsichen.dev
 
-A simple index of the projects hosted on `hsichen.dev`.
+A minimal index of things I make.
 
-## Install
+[Visit hsichen.dev](https://hsichen.dev)
+
+## Development
 
 ```bash
 bun install
-```
-
-## Develop
-
-```bash
 bun run dev
-```
-
-## Check
-
-```bash
 bun run check
 ```
 
