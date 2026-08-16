@@ -51,13 +51,13 @@ const projects = [
         description: 'Track Codex usage across accounts and workspaces.',
         icon: '/projects/comux.png',
         name: 'Comux',
-        url: 'https://github.com/orangesago/comux',
+        url: 'https://github.com/sago-cream/comux',
     },
     {
         description: 'Open your most-used browser tabs instantly.',
         icon: '/projects/handytab.png',
         name: 'HandyTab',
-        url: 'https://github.com/orangesago/handy-tab',
+        url: 'https://github.com/sago-cream/handy-tab',
     },
     {
         description: 'Japanese pitch-accent & furigana auto-marking tool.',
@@ -79,7 +79,7 @@ const structuredData = {
             'image': 'https://hsichen.dev/profile/hsi.webp',
             'url': 'https://hsichen.dev',
             'sameAs': [
-                'https://github.com/orangesago',
+                'https://github.com/sago-cream',
                 'https://www.linkedin.com/in/its-hsi-chen/',
                 'https://www.threads.com/@ccc_hsi',
             ],
